@@ -1,1 +1,16 @@
-hola, si lees esto es porque probablemente eres kevin, asi que hola kevin, gracias por estar pendiente de mi y enseñarme poco a poco sobre programacion eres alguien al que aspiro ser :D
+# Calculadora en Python
+
+Este proyecto es una calculadora básica hecha en Python.
+
+## Funciones
+- Suma
+- Resta
+- Multiplicación
+- División
+
+## Cómo usar
+1. Asegúrate de tener Python instalado
+2. Ejecuta el archivo:
+
+```bash
+python calculacora.py
